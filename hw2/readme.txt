@@ -1,0 +1,1 @@
+Explore the use of EM algorithm for text clustering. 

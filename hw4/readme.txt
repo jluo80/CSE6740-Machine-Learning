@@ -1,0 +1,1 @@
+Used HMM (hidden markov model) to determine economy status based on the price movement of SP500.
